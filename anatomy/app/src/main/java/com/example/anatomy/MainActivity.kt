@@ -38,6 +38,6 @@ fun Greeting(name: String) {
 @Composable
 fun DefaultPreview() {
     AnatomyTheme {
-        Greeting("Android")
+        Greeting("Foobar")
     }
 }
